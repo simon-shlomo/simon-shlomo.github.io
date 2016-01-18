@@ -115,7 +115,7 @@ h1 {
 .person img,
 .person .profile {
   display: block;
-  float: left;
+  float: right;
 }
 
 .person .profile {
