@@ -104,6 +104,7 @@ h1 {
 
 .person {
   margin-bottom: 20px;
+  margin-left: 10px;
   overflow: auto;
 }
 
@@ -115,7 +116,7 @@ h1 {
 .person img,
 .person .profile {
   display: block;
-  float: right;
+  float: left;
 }
 
 .person .profile {
