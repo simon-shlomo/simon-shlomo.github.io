@@ -111,7 +111,7 @@ button,h1,h2,h6{color:inherit}.btn,img{vertical-align:middle}.btn,[role=button],
           	<p align="justify"> 
 			NBT Analytics uses machine learning techniques to combine information from multiple biomarkers.</p>
           	<p align="justify"> 
-			Unlike traditional analyses that only focus on one or two spectral biomarkers, NBT Analytics investigates 
+			Unlike traditional analyses that only focus on one or two spectral biomarkers, NBT investigates 
 			biomarkers from temporal and spatial domains allowing for more comprehensive insights into the effect 
 			of an intervention on the brain.        	
 			</p>
@@ -133,11 +133,11 @@ button,h1,h2,h6{color:inherit}.btn,img{vertical-align:middle}.btn,[role=button],
             <p style="color:#414A9A;LINE-HEIGHT:30px;font-size:150%;" align="center">
              &ldquo;NBT Analytics provides
             <br> a state-of-the-art statistical analysis
-            <br> of which their cholinergic index can add considerable value
-            <br>to a variety of clinical trials.
-            <br>We will continue to collaborate 
-            <br>with NBT Analytics to provide 
-            <br> the best analyses to our sponsors.&rdquo;</p>
+            <br> of which their cholinergic
+         index can add considerable value to a variety 
+            <br>of clinical trials. We will continue to collaborate 
+            <br>with NBT in order to provide the best
+            <br>analyses to our sponsors.&rdquo;</p>
             <br>
             <p style="color:#414A9A" align="center">Geert-Jan Groeneveld MD PHD
             <br>Research Director. 
@@ -314,7 +314,7 @@ button,h1,h2,h6{color:inherit}.btn,img{vertical-align:middle}.btn,[role=button],
             <h6></h6>
             	<h2>July, 2016</h2>
             	<h2>EEG symposium at IPEG conference</h2>
-            	<p align="justify">From the 26th to the 30th of October the International Pharmaco EEG Society holds the biennial 19th meeting in Nijmegen. At this gathering of academics and industry leaders from around the globe, Dr Klaus Linkenkaer-Hansen and Dr Simon-Shlomo Poil will host a symposium. Focusing on Advanced use of EEG in drug development and personalized medicine, talks will address topics such as integration of EEG biomarkers, biomarkers for prediction, and classification in Alzheimer's Disease. It promises to be an interesting and innovative session, you can register for the conference <a href="http://www.ipeg-society.org">here</a>
+            	<p align="justify">From the 26th to the 30th of October the International Pharmaco EEG Society holds the biennial 19th meeting in Nijmegen. At this gathering of academics and industry leaders from around the globe, Dr Klaus Linkenkaer-Hansen and Dr Simon-Shlomo Poil will host a symposium. Focusing on Advanced use of EEG in drug development and personalized medicine, talks will address topics such as integration of EEG biomarkers, biomarkers for prediction, and classification in Alzheimer???s Disease. It promises to be an interesting and innovative session, you can register for the conference <a href="http://www.ipeg-society.org">here</a>
             	</p>
             </div>
             
