@@ -1,22 +1,25 @@
 
 /* DEFAULTS */
 p {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
 }
 
 h2 {
+font-family: Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 22px;
   font-weight: normal;
   margin: 0 0 20px 0;
 }
 
 h3 {
+font-family: Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   margin: 0;
 }
 
 h6 {
+font-family: Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   margin: 0 0 10px 0;
   opacity: 0.5;
@@ -24,6 +27,7 @@ h6 {
 }
 
 ol.refs {
+font-family: Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 10px;
   margin: 0;
   padding-left: 15px;
@@ -64,10 +68,12 @@ ol.refs {
 }
 
 h1 {
+font-family: Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 30px;
 }
 
 .h1-title-sub {
+font-family: Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 22px;
   float: right;
 }
