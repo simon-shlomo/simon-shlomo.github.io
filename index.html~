@@ -130,13 +130,13 @@ button,h1,h2,h6{color:inherit}.btn,img{vertical-align:middle}.btn,[role=button],
             <br>
             <br>
             <br>
-            <p style="color:#414A9A;LINE-HEIGHT:30px;font-size:150%;" align="center">
-             &ldquo;NBT Analytics provides a state-of-the-art 
+            <p style="color:#414A9A;LINE-HEIGHT:30px;font-size:150%;" align="center"><i>
+           <div font=>&rdquo;NBT Analytics provides a state-of-the-art 
             <br>statistical analysis of which their cholinergic
             <br>index can add considerable value to a variety 
             <br>of clinical trials. We will continue to collaborate 
             <br>with NBT in order to provide the best
-            <br>analyses to our sponsors.&rdquo;</p>
+            <br>analyses to our sponsors."</i></p>
             <br>
             <p style="color:#414A9A" align="center">Geert-Jan Groeneveld MD PHD
             <br>Research Director. 

@@ -54,10 +54,10 @@ ol.refs {
 *******************************************************************************/
 
 #head {
-  background-image: url("img/head2.png");
   background-repeat: no-repeat;
   background-size: auto 100%;
   background-position: right;
+  background: #414A9A;
   color: #FFF;
   padding-top: 90px;
   padding-bottom:170px;
@@ -89,8 +89,8 @@ h1 {
 #services ul {
   font-size: 14px;
   margin: 0 0 10px 0;
-  opacity: 1.0;
-  text-transform: uppercase;
+  opacity: 0.6;
+  
 }
 
 #services ul li {
