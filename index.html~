@@ -325,6 +325,7 @@
                 </p>
             </div>
             
+            <div>
                 <div class="col-md-6">
                     <br>
                     <br>
@@ -333,7 +334,7 @@
                     <br>
                     <center><img class="img-responsive" src="img/ipeg.png" align="middle"></center>
                 </div>
-            
+            </div>
         </div>
     </div>
 </div>
@@ -342,7 +343,6 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8">
-                <br>
                 <h6>Meeting us</h6>
                 Representatives of NBT Analytics will attend:
                 <div class="table-responsive">          
